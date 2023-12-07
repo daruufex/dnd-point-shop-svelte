@@ -1,5 +1,9 @@
 <script>
-  let msg = 'Hello World!'
+  import Header from './lib/Header.svelte'
+  import StatList from './lib/StatList.svelte'
 </script>
 
-<h1>{msg}</h1>
+<div class="container max-w-3xl mx-auto p-2 pt-6 md:p-4">
+  <Header />
+  <StatList />
+</div>
