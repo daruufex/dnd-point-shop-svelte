@@ -6,7 +6,7 @@
 
 <table class="w-full text-md md:text-xl">
   <thead>
-    <tr class="border-b-2 border-b-emerald-700">
+    <tr class="border-b-2 border-b-amber-700">
       <th class="p-2 md:p-3 text-left">Attribute</th>
       <th class="p-2 md:p-3 text-center">Ability score</th>
       <th class="p-2 md:p-3 text-center">Ancestry bonus</th>
