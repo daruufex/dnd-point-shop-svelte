@@ -1,6 +1,4 @@
 <script>
-  import { getContext } from 'svelte'
-
   export let ancestryBonus
 
   function handleInput(newValue) {
